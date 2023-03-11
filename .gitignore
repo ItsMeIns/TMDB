@@ -1,0 +1,51 @@
+# Xcode
+#
+## https://gitignore.io/api/xcode
+
+# User-specific stuff:
+xcuserdata/
+
+# Builds
+build/
+DerivedData/
+
+# Pods - for those using CocoaPods
+Pods/
+Podfile.lock
+
+# SPM - for those using Swift Package Manager
+# Add this line if your project depends on Swift Packages
+# Please note that dependencies managed via Xcode UI (File > Swift Packages > Add Package Dependency…) are already ignored.
+# .build/
+
+# Package
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+
+# Swift Package Manager
+#
+# Add this line if your project depends on Swift Packages
+# Please note that dependencies managed via Xcode UI (File > Swift Packages > Add Package Dependency…) are already ignored.
+# .build/
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo.
+# Instead, use fastlane to re-generate the screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/#source-control
+
+# .fastlane/
+# /fastlane/report.xml
+# /fastlane/Preview.html
+# /fastlane/screenshots/**/*.png
+# /fastlane/test_output
+
+# Code Injection
+#
+# After new code Injection tools there's a generated folder /iOSInjectionProject
+# https://github.com/johnno1962/injectionforxcode/blob/master/InjectionPluginLite/Classes/BundleInjection.m
+
+iInjectionProject/

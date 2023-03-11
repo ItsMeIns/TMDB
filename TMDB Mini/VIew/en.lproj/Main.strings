@@ -1,0 +1,42 @@
+
+/* Class = "UIButton"; configuration.title = "Save"; ObjectID = "024-D5-nih"; */
+"024-D5-nih.configuration.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "024-D5-nih"; */
+"024-D5-nih.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Movies and serials"; ObjectID = "15T-cY-41u"; */
+"15T-cY-41u.title" = "Movies and serials";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "73x-iv-9Zb"; */
+"73x-iv-9Zb.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UINavigationItem"; title = "Detailed description"; ObjectID = "86e-5O-7wD"; */
+"86e-5O-7wD.title" = "Detailed description";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KM6-KB-phP"; */
+"KM6-KB-phP.text" = "Label";
+
+/* Class = "UISegmentedControl"; QdJ-Xp-tot.segmentTitles[0] = "Movies"; ObjectID = "QdJ-Xp-tot"; */
+"QdJ-Xp-tot.segmentTitles[0]" = "Movies";
+
+/* Class = "UISegmentedControl"; QdJ-Xp-tot.segmentTitles[1] = "Serials"; ObjectID = "QdJ-Xp-tot"; */
+"QdJ-Xp-tot.segmentTitles[1]" = "Serials";
+
+/* Class = "UILabel"; text = "Release:  "; ObjectID = "lky-OG-bUS"; */
+"lky-OG-bUS.text" = "Release:  ";
+
+/* Class = "UINavigationItem"; title = "Movies and serials"; ObjectID = "nFa-Jx-s6R"; */
+"nFa-Jx-s6R.title" = "Movies and serials";
+
+/* Class = "UITabBarItem"; title = "Look later"; ObjectID = "nJL-Cs-NH8"; */
+"nJL-Cs-NH8.title" = "Look later";
+
+/* Class = "UINavigationItem"; title = "Look later"; ObjectID = "rMb-Ly-Bnt"; */
+"rMb-Ly-Bnt.title" = "Look later";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vFu-Mq-wbb"; */
+"vFu-Mq-wbb.text" = "Label";
+
+/* Class = "UILabel"; text = "12.12.1212"; ObjectID = "xEp-fJ-tMQ"; */
+"xEp-fJ-tMQ.text" = "12.12.1212";

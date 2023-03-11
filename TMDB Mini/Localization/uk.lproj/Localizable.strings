@@ -1,0 +1,17 @@
+/*
+  Localizable.strings
+  TMDB Mini
+
+  Created by macbook on 22.02.2023.
+  
+*/
+"movies_and_serials" = "Фільми та серіали";
+"look_later" = "Переглянути пізніше";
+"movies" = "Фільми";
+"serials" = "Серіали";
+"release" = "Дата виходу";
+"Success" = "Успішно";
+"added to favorites" = "додано до обраного";
+"removed from favorites" = "видалено з обраного";
+"Save" = "Зберігти";
+"Delete" = "Видалити";

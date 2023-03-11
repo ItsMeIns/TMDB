@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TMDB Mini
+
+  Created by macbook on 22.02.2023.
+  
+*/
+"movies_and_serials" = "Movies and Serials";
+"look_later" = "Look Later";
+"movies" = "Movies";
+"serials" = "Serials";
+"release" = "Release";

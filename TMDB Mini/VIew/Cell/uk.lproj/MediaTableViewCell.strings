@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "12.12.1212"; ObjectID = "Eie-vU-aGc"; */
+"Eie-vU-aGc.text" = "12.12.1212";
+
+/* Class = "UILabel"; text = "текст опису"; ObjectID = "JtO-8D-ZEe"; */
+"JtO-8D-ZEe.text" = "текст опису";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RLi-Bw-sdZ"; */
+"RLi-Bw-sdZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Назва"; ObjectID = "fZl-Sm-MLJ"; */
+"fZl-Sm-MLJ.text" = "Назва";
+
+/* Class = "UILabel"; text = "Release:  "; ObjectID = "xCq-3G-Vn2"; */
+"xCq-3G-Vn2.text" = "Дата виходу:  ";

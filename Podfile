@@ -6,7 +6,7 @@ target 'TMDB Mini' do
 
   pod 'Alamofire'
   pod 'RealmSwift', '~>10'
-  pod 'Kingfisher'
+  
   pod 'youtube-ios-player-helper'
   pod 'SwiftGen', '~> 6.0'
 end

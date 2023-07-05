@@ -21,12 +21,13 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		138C909802760DFA0F8F325D /* Pods_TMDB_Mini.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D13D96D12E33253EA57C8BCA /* Pods_TMDB_Mini.framework */; };
+		B0B6829130E37DA93D595C5C /* Pods_TMDB_Mini.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65C3BD55E646499C71C51EA4 /* Pods_TMDB_Mini.framework */; };
 		FA0DEEDA2975E1C200298EAC /* MovieAndSerialsModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0DEED92975E1C200298EAC /* MovieAndSerialsModel.swift */; };
 		FA0DEEE12975EA2E00298EAC /* MediaTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0DEEDF2975EA2E00298EAC /* MediaTableViewCell.swift */; };
 		FA0DEEE82975F01B00298EAC /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = FA0DEEE72975F01B00298EAC /* Podfile */; };
 		FA37EF272995017200742521 /* FavoriteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA37EF262995017200742521 /* FavoriteViewController.swift */; };
 		FA37EF2A299519D200742521 /* Favorites.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA37EF29299519D200742521 /* Favorites.swift */; };
+		FA591F9629D7583F0054FF85 /* Kingfisher in Frameworks */ = {isa = PBXBuildFile; productRef = FA591F9529D7583F0054FF85 /* Kingfisher */; };
 		FA5B260929894ABF00FF9DD8 /* SearchTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5B260829894ABF00FF9DD8 /* SearchTimer.swift */; };
 		FA5B2612298AB2AD00FF9DD8 /* DeteilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5B2611298AB2AC00FF9DD8 /* DeteilViewController.swift */; };
 		FA6A04AA29714F7A007C893B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA6A04A929714F7A007C893B /* AppDelegate.swift */; };
@@ -44,9 +45,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6E276DBE26CA6CCF5F97A626 /* Pods-TMDB Mini.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TMDB Mini.debug.xcconfig"; path = "Target Support Files/Pods-TMDB Mini/Pods-TMDB Mini.debug.xcconfig"; sourceTree = "<group>"; };
-		CB8C929775E14A8606635E59 /* Pods-TMDB Mini.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TMDB Mini.release.xcconfig"; path = "Target Support Files/Pods-TMDB Mini/Pods-TMDB Mini.release.xcconfig"; sourceTree = "<group>"; };
-		D13D96D12E33253EA57C8BCA /* Pods_TMDB_Mini.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TMDB_Mini.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4B55663EC6844674C70BF206 /* Pods-TMDB Mini.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TMDB Mini.debug.xcconfig"; path = "Target Support Files/Pods-TMDB Mini/Pods-TMDB Mini.debug.xcconfig"; sourceTree = "<group>"; };
+		65C3BD55E646499C71C51EA4 /* Pods_TMDB_Mini.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TMDB_Mini.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA0DEED92975E1C200298EAC /* MovieAndSerialsModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieAndSerialsModel.swift; sourceTree = "<group>"; };
 		FA0DEEDF2975EA2E00298EAC /* MediaTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaTableViewCell.swift; sourceTree = "<group>"; };
 		FA0DEEE72975F01B00298EAC /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -74,6 +74,7 @@
 		FA8B276A29AA2E1F00DC8960 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		FABF91F529AFA01000A42779 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		FAC4E669299BD1D200039BA8 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
+		FDDA35DB855D790C39823BD2 /* Pods-TMDB Mini.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TMDB Mini.release.xcconfig"; path = "Target Support Files/Pods-TMDB Mini/Pods-TMDB Mini.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,7 +82,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				138C909802760DFA0F8F325D /* Pods_TMDB_Mini.framework in Frameworks */,
+				FA591F9629D7583F0054FF85 /* Kingfisher in Frameworks */,
+				B0B6829130E37DA93D595C5C /* Pods_TMDB_Mini.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,16 +93,16 @@
 		410835E4A893E5EF7977DDB7 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				6E276DBE26CA6CCF5F97A626 /* Pods-TMDB Mini.debug.xcconfig */,
-				CB8C929775E14A8606635E59 /* Pods-TMDB Mini.release.xcconfig */,
+				4B55663EC6844674C70BF206 /* Pods-TMDB Mini.debug.xcconfig */,
+				FDDA35DB855D790C39823BD2 /* Pods-TMDB Mini.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		9D2993A7703D9BD6458BB8EE /* Frameworks */ = {
+		84EBCA96D90DD187599455F6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D13D96D12E33253EA57C8BCA /* Pods_TMDB_Mini.framework */,
+				65C3BD55E646499C71C51EA4 /* Pods_TMDB_Mini.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -120,7 +122,7 @@
 				FA6A04A829714F7A007C893B /* TMDB Mini */,
 				FA6A04A729714F7A007C893B /* Products */,
 				410835E4A893E5EF7977DDB7 /* Pods */,
-				9D2993A7703D9BD6458BB8EE /* Frameworks */,
+				84EBCA96D90DD187599455F6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -237,17 +239,20 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FA6A04BA29714F7B007C893B /* Build configuration list for PBXNativeTarget "TMDB Mini" */;
 			buildPhases = (
-				D47F0C85217ED64E8ECA0240 /* [CP] Check Pods Manifest.lock */,
+				DF1E0645E2457CB7681C898C /* [CP] Check Pods Manifest.lock */,
 				FA6A04A229714F7A007C893B /* Sources */,
 				FA6A04A329714F7A007C893B /* Frameworks */,
 				FA6A04A429714F7A007C893B /* Resources */,
-				BB82CA8080122F81F97C3097 /* [CP] Embed Pods Frameworks */,
+				597D3485E474B95F2F53DD84 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = "TMDB Mini";
+			packageProductDependencies = (
+				FA591F9529D7583F0054FF85 /* Kingfisher */,
+			);
 			productName = "TMDB Mini";
 			productReference = FA6A04A629714F7A007C893B /* TMDB Mini.app */;
 			productType = "com.apple.product-type.application";
@@ -280,6 +285,9 @@
 				uk,
 			);
 			mainGroup = FA6A049D29714F7A007C893B;
+			packageReferences = (
+				FA591F9429D7583F0054FF85 /* XCRemoteSwiftPackageReference "Kingfisher" */,
+			);
 			productRefGroup = FA6A04A729714F7A007C893B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -307,7 +315,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		BB82CA8080122F81F97C3097 /* [CP] Embed Pods Frameworks */ = {
+		597D3485E474B95F2F53DD84 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -324,7 +332,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TMDB Mini/Pods-TMDB Mini-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D47F0C85217ED64E8ECA0240 /* [CP] Check Pods Manifest.lock */ = {
+		DF1E0645E2457CB7681C898C /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -481,7 +489,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -536,7 +544,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -548,7 +556,7 @@
 		};
 		FA6A04BB29714F7B007C893B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E276DBE26CA6CCF5F97A626 /* Pods-TMDB Mini.debug.xcconfig */;
+			baseConfigurationReference = 4B55663EC6844674C70BF206 /* Pods-TMDB Mini.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -577,7 +585,7 @@
 		};
 		FA6A04BC29714F7B007C893B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CB8C929775E14A8606635E59 /* Pods-TMDB Mini.release.xcconfig */;
+			baseConfigurationReference = FDDA35DB855D790C39823BD2 /* Pods-TMDB Mini.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -653,6 +661,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FA591F9429D7583F0054FF85 /* XCRemoteSwiftPackageReference "Kingfisher" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/onevcat/Kingfisher.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		FA591F9529D7583F0054FF85 /* Kingfisher */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FA591F9429D7583F0054FF85 /* XCRemoteSwiftPackageReference "Kingfisher" */;
+			productName = Kingfisher;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = FA6A049E29714F7A007C893B /* Project object */;
 }

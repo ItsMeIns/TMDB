@@ -1,6 +1,5 @@
 # TMDB-Mini
-<<<<<<< HEAD
-application that will help you learn about new movies and series from the movie database website
+
 =======
 TMDB-mini є захоплюючим додатком для платформи iOS, який надає користувачам можливість переглядати нові фільми та серіали з відомого сайту "The Movie Database" (TMDB). Цей додаток пропонує зручний спосіб дізнаватися про останні новинки кіноіндустрії, а також отримувати інформацію про фільми, серіали, акторів та інше.
 ___
@@ -27,4 +26,4 @@ ___
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegrame&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
->>>>>>> 7476591 (added more readme description)
+
